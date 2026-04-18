@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey, I'm Sana
 
-<!--
-**sana7441/sana7441** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I write code that solves real problems — nothing fancy, just things that work.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building projects and learning something new every day
+- Like keeping things simple and useful
+- Always trying to write cleaner, better code
+- Reach me at: [sanamansoor744@gmail.com]
+
+---
+
+### Links
+
+- [LinkedIn](https://in.linkedin.com/in/sana-ali-1st-87ba71230)
+
+---
+
+### Projects
+
+**Project One**
+
+A short description of what this project does and why it exists.
+
+**Project Two**
+
+What this one solves. Keep it to one or two lines.
+
+---
+
+&gt; Build small. Ship often. Keep learning.
